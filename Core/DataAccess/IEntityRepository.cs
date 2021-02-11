@@ -1,10 +1,11 @@
-﻿using Entities.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+
+namespace Core.DataAccess
 {
     //burada bir back end tasarımı yapmaktayız
     //bu tasarımda belli kurallar oluşturmak durumundayız
